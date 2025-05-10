@@ -1,0 +1,301 @@
+id_proyecto,nombre_proyecto,ubicacion,tipo_obra,fecha_inicio,fecha_entrega,estado_proyecto,presupuesto_estimado,gerente_responsable,porcentaje_avance
+1,Proyecto How 431,Armenia,Obra hidráulica,2023-12-05,2025-11-10,En ejecución,4373377.63,Angela Stone,31.26
+2,Proyecto Tell 350,Neiva,Restauración,2025-04-23,2026-11-26,Planeado,2132634.82,Angela Stone,36.18
+3,Proyecto Community 926,Santa Marta,Urbanismo,2024-01-04,2025-12-08,Planeado,1995500.07,Victor Sanders,76.93
+4,Proyecto Him 13,Bogotá,Urbanismo,2023-07-15,2025-06-29,En ejecución,740907.54,Stephanie Burnett,60.48
+5,Proyecto Interesting 574,Sincelejo,Infraestructura vial,2024-05-08,2026-03-24,Suspendido,4390756.6,Brittany Morris,12.88
+6,Proyecto Heavy 674,Cali,Infraestructura vial,2025-03-04,2025-07-08,Finalizado,842326.78,Samantha Ramirez,14.28
+7,Proyecto Probably 978,Santa Marta,Infraestructura vial,2024-05-26,2025-11-09,Finalizado,4628187.05,Maurice Morris,98.51
+8,Proyecto Take 714,Popayán,Restauración,2023-09-27,2024-02-23,Finalizado,3650654.7,Deborah Conner,25.45
+9,Proyecto Republican 834,Quibdó,Infraestructura vial,2024-07-08,2026-03-04,Finalizado,134617.03,Samantha Ramirez,13.51
+10,Proyecto Structure 222,Neiva,Obra hidráulica,2025-03-25,2026-05-22,Suspendido,1909389.59,Peter Olsen,99.64
+11,Proyecto Plant 249,Bucaramanga,Infraestructura vial,2024-05-02,2025-07-17,En ejecución,2907050.87,Samantha Ramirez,64.38
+12,Proyecto Everything 821,San José del Guaviare,Obra hidráulica,2023-06-08,2023-11-17,Suspendido,3325242.99,Samantha Ramirez,57.13
+13,Proyecto Add 66,Sincelejo,Urbanismo,2024-02-05,2025-01-23,Finalizado,3054430.86,Maurice Morris,46.55
+14,Proyecto Reach 473,Ibagué,Infraestructura vial,2023-11-05,2025-07-17,Planeado,2347153.33,Michael Ford,14.82
+15,Proyecto Son 934,Quibdó,Infraestructura vial,2024-11-04,2026-09-15,Planeado,3163293.29,Stephanie Burnett,65.03
+16,Proyecto Pretty 944,Montería,Edificación,2025-05-03,2026-07-18,Finalizado,4165170.66,Michael Ford,17.69
+17,Proyecto Near 81,Medellín,Urbanismo,2025-03-23,2026-06-09,En ejecución,3094823.76,Stephanie Burnett,5.21
+18,Proyecto Above 713,Barranquilla,Restauración,2023-09-14,2025-07-10,En ejecución,3663192.71,Ricardo Rodgers,91.38
+19,Proyecto Live 86,Popayán,Obra hidráulica,2024-03-22,2025-08-23,Suspendido,2657980.58,Stephanie Burnett,35.25
+20,Proyecto Thank 391,Pereira,Edificación,2024-09-25,2026-07-14,Suspendido,1730923.73,Stephanie Burnett,64.22
+21,Proyecto Lay 96,Villavicencio,Obra hidráulica,2023-10-14,2024-04-10,Finalizado,4028783.18,Deborah Conner,0.24
+22,Proyecto Word 102,San José del Guaviare,Edificación,2024-09-20,2025-08-24,Suspendido,910836.24,Teresa Lopez,90.91
+23,Proyecto Talk 760,Montería,Urbanismo,2025-03-10,2026-11-26,Planeado,2275498.85,Jennifer Mann,79.05
+24,Proyecto Boy 92,San José del Guaviare,Urbanismo,2025-04-18,2025-10-03,En ejecución,1463671.22,Kimberly Fisher,21.24
+25,Proyecto Agent 293,Cartagena,Urbanismo,2023-10-17,2024-04-08,Suspendido,3392060.9,Sherri Perkins,95.77
+26,Proyecto Grow 329,Neiva,Infraestructura vial,2023-09-06,2025-01-30,Suspendido,171685.9,Renee Little,22.21
+27,Proyecto Environment 189,Florencia,Infraestructura vial,2024-10-14,2026-07-26,Suspendido,1160353.69,Michael Ford,84.6
+28,Proyecto Continue 356,Santa Marta,Edificación,2024-05-25,2024-11-06,Finalizado,1850642.49,Patrick Dunn,91.52
+29,Proyecto National 676,Pereira,Obra hidráulica,2024-11-26,2025-09-07,Planeado,4563064.82,Brittany Morris,55.5
+30,Proyecto Third 254,Bucaramanga,Restauración,2025-01-03,2025-09-09,En ejecución,4811288.98,Mark Johnson,35.97
+31,Proyecto Product 196,Florencia,Urbanismo,2024-09-27,2025-01-01,Planeado,1680888.55,Denise Olson,31.56
+32,Proyecto Myself 995,Cali,Edificación,2024-11-07,2025-05-20,Finalizado,3139828.01,Norma Roberts,85.92
+33,Proyecto Treat 658,Bucaramanga,Urbanismo,2024-08-30,2025-06-13,Finalizado,3607942.22,Barry Rodriguez,96.93
+34,Proyecto Present 408,Barranquilla,Obra hidráulica,2024-04-30,2025-10-29,Suspendido,1530943.16,Sherri Perkins,38.39
+35,Proyecto Month 544,Santa Marta,Infraestructura vial,2024-10-11,2025-09-07,Suspendido,1919580.53,Stephanie Burnett,15.42
+36,Proyecto Officer 411,Florencia,Edificación,2023-05-20,2023-10-25,Suspendido,830663.23,Mark Johnson,0.78
+37,Proyecto Crime 871,Neiva,Restauración,2024-06-20,2024-11-19,En ejecución,2106145.98,Allison Joyce,71.86
+38,Proyecto Three 776,Montería,Infraestructura vial,2024-04-21,2025-04-28,Planeado,2808833.58,Allison Joyce,67.06
+39,Proyecto Body 913,Sincelejo,Edificación,2025-01-06,2026-10-10,Finalizado,4910044.94,Shannon Gutierrez,41.77
+40,Proyecto Work 470,Pasto,Infraestructura vial,2024-01-16,2025-01-11,Suspendido,4421889.48,Angela Stone,60.9
+41,Proyecto Near 177,Florencia,Edificación,2023-10-29,2024-09-18,Suspendido,4619906.4,Denise Olson,58.87
+42,Proyecto Ready 392,Armenia,Restauración,2023-11-23,2024-07-27,Finalizado,3293073.28,Renee Little,47.26
+43,Proyecto Realize 769,Bogotá,Restauración,2024-01-29,2024-12-15,Finalizado,3248946.51,Angela Stone,24.49
+44,Proyecto Forward 854,Armenia,Edificación,2023-09-27,2025-01-01,En ejecución,2529079.96,Ricardo Rodgers,8.77
+45,Proyecto Much 613,Barranquilla,Infraestructura vial,2025-03-30,2025-07-16,En ejecución,4377737.37,Brittany Morris,37.61
+46,Proyecto Western 181,Cartagena,Obra hidráulica,2024-09-22,2025-05-14,En ejecución,2401179.91,Allison Joyce,6.73
+47,Proyecto Man 136,Riohacha,Edificación,2024-04-12,2026-03-04,Finalizado,650520.68,Dr. Richard Wong,58.09
+48,Proyecto Congress 468,Armenia,Obra hidráulica,2025-04-07,2026-07-07,Planeado,2671638.12,Ricardo Rodgers,60.15
+49,Proyecto Common 764,Cúcuta,Infraestructura vial,2024-05-17,2024-09-24,Planeado,764544.45,Eric Miller,84.06
+50,Proyecto Enjoy 423,Cali,Edificación,2024-03-26,2025-09-06,Suspendido,3098736.69,Deborah Conner,57.36
+51,Proyecto Safe 587,Yopal,Obra hidráulica,2023-11-20,2024-05-13,Finalizado,2081429.9,Peter Olsen,16.61
+52,Proyecto Quite 847,Popayán,Obra hidráulica,2025-04-01,2025-11-01,Planeado,1683110.85,Victor Sanders,4.38
+53,Proyecto Will 955,Cali,Urbanismo,2024-01-18,2025-04-09,Suspendido,276214.17,Renee Little,81.32
+54,Proyecto Share 134,Cúcuta,Edificación,2025-04-03,2027-02-12,En ejecución,2809374.91,Jennifer Mann,59.0
+55,Proyecto Find 307,Santa Marta,Restauración,2024-06-28,2025-03-27,Planeado,4934257.75,Eric Miller,44.1
+56,Proyecto Group 722,Barranquilla,Obra hidráulica,2025-02-26,2025-07-17,Suspendido,1892831.29,Brittany Morris,87.84
+57,Proyecto Without 284,Florencia,Obra hidráulica,2023-05-23,2025-01-07,Finalizado,1931006.35,Patrick Dunn,53.75
+58,Proyecto West 202,Florencia,Edificación,2023-07-02,2024-09-23,Finalizado,341359.99,Dr. Richard Wong,25.19
+59,Proyecto Financial 434,Villavicencio,Edificación,2023-11-19,2025-07-11,Planeado,1630299.83,Norma Roberts,21.74
+60,Proyecto Authority 161,Barranquilla,Urbanismo,2023-06-24,2024-10-01,En ejecución,2632558.7,Kimberly Fisher,62.63
+61,Proyecto Reach 395,Pereira,Restauración,2023-09-15,2024-10-06,Planeado,4541083.04,Brittany Morris,33.48
+62,Proyecto Strong 776,Sincelejo,Infraestructura vial,2023-10-28,2025-01-20,En ejecución,3308949.51,Karen Hernandez,11.64
+63,Proyecto Able 912,Cúcuta,Obra hidráulica,2023-11-26,2024-04-16,Planeado,3612069.32,Norma Roberts,54.79
+64,Proyecto Clearly 137,Florencia,Urbanismo,2025-01-22,2025-09-11,Planeado,2050273.96,Renee Little,21.52
+65,Proyecto Guy 772,Cartagena,Infraestructura vial,2023-10-01,2025-04-03,Suspendido,1024130.57,Jennifer Mann,18.04
+66,Proyecto Mouth 348,Villavicencio,Urbanismo,2024-10-07,2026-03-30,En ejecución,2401718.52,Peter Olsen,31.75
+67,Proyecto Return 91,Cali,Restauración,2023-10-06,2024-10-31,Planeado,1509213.02,Brittany Morris,98.04
+68,Proyecto Vote 887,Quibdó,Edificación,2023-08-10,2024-06-13,Finalizado,532245.86,Ricardo Rodgers,60.05
+69,Proyecto Foot 209,Pereira,Edificación,2023-06-09,2024-08-10,Finalizado,828463.01,Mark Johnson,2.99
+70,Proyecto Miss 53,Popayán,Urbanismo,2023-07-25,2025-01-04,Planeado,2899634.27,Brenda Baker,56.47
+71,Proyecto Probably 521,Pasto,Obra hidráulica,2025-02-26,2025-12-31,Planeado,3804116.75,Teresa Lopez,91.83
+72,Proyecto Example 185,Cartagena,Edificación,2024-03-07,2024-11-20,Planeado,2482276.7,Donald Patel,74.69
+73,Proyecto Population 944,Quibdó,Obra hidráulica,2024-11-13,2025-05-25,Planeado,1520383.88,Eric Miller,61.68
+74,Proyecto So 165,Tunja,Edificación,2024-08-07,2026-04-21,Finalizado,3339205.55,Sherri Perkins,75.34
+75,Proyecto Concern 753,Pereira,Restauración,2025-03-04,2026-03-18,Finalizado,3701209.0,Samantha Ramirez,63.63
+76,Proyecto Look 577,Cúcuta,Infraestructura vial,2024-06-02,2025-06-08,Finalizado,2208789.85,Denise Olson,61.65
+77,Proyecto Condition 698,Popayán,Edificación,2023-07-04,2024-01-11,Finalizado,3692450.27,Barry Rodriguez,0.92
+78,Proyecto Usually 948,Sincelejo,Infraestructura vial,2023-10-22,2024-11-26,Finalizado,3195029.18,Sherri Perkins,93.92
+79,Proyecto Drop 966,Valledupar,Edificación,2025-01-22,2025-06-02,Planeado,4217082.39,Ricardo Rodgers,65.7
+80,Proyecto Course 59,Popayán,Infraestructura vial,2023-10-08,2024-05-04,Suspendido,3391788.63,Angela Stone,81.78
+81,Proyecto But 804,Ibagué,Infraestructura vial,2025-01-04,2025-03-25,Suspendido,4880905.17,Allison Joyce,34.17
+82,Proyecto Trade 947,Barranquilla,Restauración,2023-12-25,2025-05-06,Planeado,4114119.13,Renee Little,72.45
+83,Proyecto North 615,Quibdó,Infraestructura vial,2024-06-15,2025-12-07,Finalizado,1576225.66,Kimberly Fisher,37.34
+84,Proyecto Stage 36,Barranquilla,Edificación,2024-12-15,2026-01-18,Planeado,1784997.48,Shannon Gutierrez,20.74
+85,Proyecto Wish 857,Bucaramanga,Urbanismo,2024-04-01,2025-06-04,En ejecución,3806441.25,Eric Miller,48.55
+86,Proyecto Pass 172,Barranquilla,Obra hidráulica,2023-10-05,2025-01-15,Planeado,545566.73,Jennifer Mann,67.48
+87,Proyecto Physical 787,Bucaramanga,Urbanismo,2025-01-30,2026-05-24,En ejecución,407766.62,Michael Ford,78.97
+88,Proyecto Step 931,Ibagué,Urbanismo,2023-09-02,2024-11-27,Suspendido,3813441.55,Stephanie Burnett,95.78
+89,Proyecto Leg 444,Barranquilla,Restauración,2024-07-19,2026-04-05,Suspendido,4273102.17,Jennifer Mann,86.32
+90,Proyecto Ago 654,Medellín,Urbanismo,2023-09-26,2025-02-07,Finalizado,1541536.14,Shannon Gutierrez,82.84
+91,Proyecto Positive 766,Quibdó,Obra hidráulica,2024-09-16,2026-03-02,Suspendido,2937900.55,Denise Olson,66.86
+92,Proyecto Bit 438,Barranquilla,Edificación,2024-01-18,2025-01-13,Finalizado,2762132.24,Tiffany Brown,7.86
+93,Proyecto Understand 869,Tunja,Restauración,2023-10-22,2024-12-11,Finalizado,1826653.82,Dr. Richard Wong,95.18
+94,Proyecto Investment 423,Bucaramanga,Edificación,2024-10-19,2025-02-13,Finalizado,1144735.45,Victor Sanders,50.51
+95,Proyecto Bit 197,Cartagena,Infraestructura vial,2023-09-20,2024-03-24,Planeado,326315.1,Dr. Richard Wong,15.31
+96,Proyecto Party 82,Pereira,Obra hidráulica,2025-04-10,2026-12-26,Suspendido,3573034.93,Samantha Ramirez,9.57
+97,Proyecto Generation 577,Tunja,Infraestructura vial,2025-02-05,2027-01-23,Finalizado,1863384.06,Sherri Perkins,14.7
+98,Proyecto Cell 338,Yopal,Infraestructura vial,2024-09-21,2025-12-20,Planeado,2969476.08,Ricardo Rodgers,70.55
+99,Proyecto Hit 647,Florencia,Edificación,2024-03-06,2024-07-15,Planeado,2865454.61,Angela Stone,35.13
+100,Proyecto Floor 822,Florencia,Obra hidráulica,2023-05-11,2023-08-03,Finalizado,317730.31,Renee Little,48.77
+101,Proyecto Anyone 848,Quibdó,Edificación,2023-10-04,2025-02-27,Planeado,3685679.83,Kimberly Fisher,87.96
+102,Proyecto Data 954,Quibdó,Infraestructura vial,2024-11-11,2025-09-10,En ejecución,4386848.83,Jennifer Mann,53.46
+103,Proyecto Article 365,Medellín,Obra hidráulica,2023-10-23,2025-05-04,En ejecución,902132.04,Karen Hernandez,32.96
+104,Proyecto Let 892,Cali,Urbanismo,2024-06-21,2026-01-06,Suspendido,4360523.14,Dr. Richard Wong,67.73
+105,Proyecto Specific 113,Montería,Obra hidráulica,2023-06-19,2024-09-28,Planeado,3409856.09,Brenda Baker,59.76
+106,Proyecto Specific 731,San José del Guaviare,Restauración,2024-02-28,2024-05-29,En ejecución,3187546.65,Tiffany Brown,54.51
+107,Proyecto Medical 291,Cúcuta,Urbanismo,2023-06-08,2024-10-02,En ejecución,2629280.07,Allison Joyce,23.9
+108,Proyecto Budget 117,Santa Marta,Infraestructura vial,2025-03-10,2026-12-08,Planeado,876933.52,Denise Olson,65.92
+109,Proyecto Doctor 442,Villavicencio,Infraestructura vial,2023-08-22,2024-11-23,En ejecución,3395550.01,Denise Olson,17.46
+110,Proyecto Art 484,Cartagena,Obra hidráulica,2024-02-07,2025-07-06,Finalizado,3794868.24,James Patel,44.32
+111,Proyecto Three 164,Cúcuta,Restauración,2024-07-11,2025-08-20,Suspendido,909946.29,Deborah Conner,56.8
+112,Proyecto Dream 366,Popayán,Restauración,2024-05-01,2025-07-18,Planeado,3946671.95,Norma Roberts,94.66
+113,Proyecto Up 676,Barranquilla,Infraestructura vial,2023-07-19,2024-03-28,En ejecución,4115618.18,Brittany Smith,29.08
+114,Proyecto Watch 525,Villavicencio,Edificación,2024-01-30,2025-05-25,En ejecución,4585476.26,Brittany Smith,15.38
+115,Proyecto Wonder 925,Medellín,Edificación,2024-08-28,2024-10-28,Suspendido,1101478.21,Donald Patel,63.49
+116,Proyecto Against 398,Santa Marta,Edificación,2024-05-04,2024-10-12,En ejecución,2972679.17,Angela Stone,70.48
+117,Proyecto Civil 564,Cúcuta,Restauración,2023-06-21,2024-06-27,Planeado,2002494.09,Donald Patel,23.25
+118,Proyecto Four 147,Bucaramanga,Urbanismo,2024-02-06,2025-06-14,Planeado,236600.27,Denise Olson,26.87
+119,Proyecto Appear 586,Florencia,Restauración,2024-04-13,2024-08-05,En ejecución,4949424.82,Patrick Dunn,42.66
+120,Proyecto Home 203,Popayán,Obra hidráulica,2024-10-31,2026-07-29,Suspendido,3528988.5,Jennifer Mann,85.75
+121,Proyecto Eat 197,Valledupar,Obra hidráulica,2024-11-27,2025-11-24,Suspendido,682301.23,Karen Hernandez,19.92
+122,Proyecto Teach 441,Florencia,Infraestructura vial,2024-12-15,2026-07-23,Finalizado,1833286.94,Peter Olsen,46.18
+123,Proyecto High 517,Cali,Urbanismo,2024-08-07,2025-08-06,Finalizado,3279295.05,Kimberly Fisher,87.1
+124,Proyecto Learn 31,Neiva,Restauración,2023-08-09,2025-03-18,Suspendido,1598019.53,Jennifer Mann,15.08
+125,Proyecto Stock 218,Cúcuta,Obra hidráulica,2024-10-25,2026-04-21,Finalizado,3204643.62,Maurice Morris,90.27
+126,Proyecto Within 303,Popayán,Urbanismo,2024-04-08,2025-02-01,En ejecución,3591441.1,Michael Ford,38.41
+127,Proyecto Market 503,Valledupar,Edificación,2023-12-31,2025-10-12,Suspendido,2864300.72,Renee Little,93.74
+128,Proyecto Quality 359,Valledupar,Infraestructura vial,2023-08-09,2024-11-04,Planeado,2079468.7,Maurice Morris,13.91
+129,Proyecto Approach 587,Bucaramanga,Infraestructura vial,2024-07-11,2025-06-22,En ejecución,828609.37,Kimberly Fisher,41.42
+130,Proyecto Worker 949,Valledupar,Edificación,2024-09-20,2026-06-17,Planeado,4470039.19,Patrick Dunn,5.37
+131,Proyecto Record 743,Bucaramanga,Restauración,2025-04-27,2025-12-18,Planeado,3613082.04,Mark Johnson,48.03
+132,Proyecto Fight 112,Ibagué,Urbanismo,2024-12-04,2026-10-31,Finalizado,2129810.82,Tiffany Brown,44.39
+133,Proyecto Peace 831,Montería,Infraestructura vial,2023-10-02,2024-08-22,Planeado,4496648.02,Peter Olsen,74.36
+134,Proyecto Heavy 278,Santa Marta,Obra hidráulica,2024-03-23,2025-08-04,Planeado,2094870.85,Victor Sanders,93.44
+135,Proyecto Other 454,Cali,Edificación,2024-01-07,2025-04-09,Planeado,3622825.14,Ricardo Rodgers,94.28
+136,Proyecto According 394,Montería,Obra hidráulica,2023-06-12,2025-03-13,En ejecución,1039862.7,Michael Ford,72.54
+137,Proyecto Option 429,Pasto,Restauración,2023-06-04,2025-02-17,Planeado,3953856.99,Tiffany Brown,3.07
+138,Proyecto Social 353,Barranquilla,Obra hidráulica,2024-10-10,2026-02-15,En ejecución,331043.91,Allison Joyce,89.89
+139,Proyecto Prove 753,Pereira,Obra hidráulica,2023-05-21,2024-08-21,Planeado,3098518.37,Michael Ford,98.92
+140,Proyecto Finish 494,Tunja,Edificación,2025-02-27,2026-02-01,Suspendido,1927987.32,Dr. Richard Wong,66.42
+141,Proyecto Article 674,Ibagué,Restauración,2024-09-23,2025-10-31,Planeado,3740124.1,Mark Johnson,12.11
+142,Proyecto Trouble 312,Ibagué,Urbanismo,2025-04-24,2027-04-06,Suspendido,2083636.86,Eric Miller,44.48
+143,Proyecto Particular 217,Valledupar,Restauración,2024-05-26,2025-10-02,Planeado,1610686.31,Brenda Baker,46.22
+144,Proyecto Room 949,Medellín,Edificación,2024-10-17,2025-03-02,Suspendido,429733.16,Brittany Morris,42.0
+145,Proyecto Follow 438,Riohacha,Urbanismo,2025-04-17,2026-12-20,Suspendido,3815936.1,Teresa Lopez,37.62
+146,Proyecto Laugh 779,Medellín,Infraestructura vial,2023-10-11,2025-09-21,Suspendido,1110295.08,Michael Ford,7.44
+147,Proyecto Political 830,Tunja,Obra hidráulica,2023-08-28,2025-01-31,Planeado,2879028.23,Sherri Perkins,67.85
+148,Proyecto Democratic 44,Medellín,Edificación,2024-08-12,2024-11-15,Planeado,2083557.69,Stephanie Burnett,34.27
+149,Proyecto Million 433,Medellín,Infraestructura vial,2024-07-20,2025-04-13,Planeado,656568.17,Denise Olson,63.29
+150,Proyecto Heavy 105,Bogotá,Urbanismo,2024-04-12,2025-10-17,Planeado,361763.93,Stephanie Burnett,97.79
+151,Proyecto Material 507,Montería,Obra hidráulica,2024-05-29,2025-02-04,En ejecución,4700070.11,Michael Ford,96.03
+152,Proyecto House 659,Popayán,Restauración,2024-03-11,2025-12-30,En ejecución,1922690.95,Patrick Dunn,87.29
+153,Proyecto Bar 300,Medellín,Obra hidráulica,2025-04-04,2025-12-29,Suspendido,4828013.3,Angela Stone,66.4
+154,Proyecto Baby 109,San José del Guaviare,Obra hidráulica,2024-01-14,2024-12-29,Suspendido,1889726.26,Karen Hernandez,30.16
+155,Proyecto Item 705,Cali,Urbanismo,2023-10-24,2024-10-21,Finalizado,753856.23,Michael Ford,40.03
+156,Proyecto Head 956,Cali,Restauración,2023-11-14,2024-02-03,Suspendido,2954070.18,Dr. Richard Wong,97.46
+157,Proyecto Seem 421,Montería,Infraestructura vial,2024-11-08,2026-05-20,Suspendido,2455300.73,Peter Olsen,79.94
+158,Proyecto Trade 880,Manizales,Restauración,2023-11-06,2024-04-11,En ejecución,4253078.19,Tiffany Brown,70.19
+159,Proyecto Month 976,Florencia,Urbanismo,2024-07-18,2025-10-15,Suspendido,3829689.8,Kimberly Fisher,28.99
+160,Proyecto Soon 141,Sincelejo,Infraestructura vial,2024-03-13,2024-09-17,Finalizado,3725162.85,Maurice Morris,56.87
+161,Proyecto Direction 444,Manizales,Restauración,2024-07-17,2026-04-19,En ejecución,1578469.99,Barry Rodriguez,75.56
+162,Proyecto Information 846,Cúcuta,Obra hidráulica,2025-02-18,2026-07-31,En ejecución,398405.94,Angela Stone,32.59
+163,Proyecto Page 737,Tunja,Urbanismo,2025-04-18,2026-09-02,Planeado,4255288.55,Patrick Dunn,16.04
+164,Proyecto Else 95,Tunja,Restauración,2024-07-11,2025-03-12,En ejecución,2259057.46,Brittany Smith,29.15
+165,Proyecto Child 685,Tunja,Infraestructura vial,2024-04-08,2026-01-19,En ejecución,4225810.53,Allison Joyce,8.45
+166,Proyecto Involve 558,Riohacha,Obra hidráulica,2024-01-12,2025-10-24,Finalizado,2068506.1,Peter Olsen,51.36
+167,Proyecto Low 208,Bucaramanga,Edificación,2023-06-19,2025-02-22,Planeado,4901885.72,Angela Stone,25.22
+168,Proyecto Bag 421,Neiva,Obra hidráulica,2024-10-11,2026-05-20,Suspendido,1556843.81,Allison Joyce,71.16
+169,Proyecto Anything 701,Sincelejo,Obra hidráulica,2024-06-17,2025-05-02,En ejecución,2750954.16,Karen Hernandez,94.08
+170,Proyecto Bar 494,Cali,Urbanismo,2025-02-16,2026-12-26,En ejecución,1471071.76,Norma Roberts,33.02
+171,Proyecto Thousand 93,Barranquilla,Infraestructura vial,2023-11-17,2024-10-21,Planeado,920337.56,Tiffany Brown,40.3
+172,Proyecto Agency 995,Yopal,Edificación,2024-04-19,2025-06-23,Suspendido,2345472.39,Dr. Richard Wong,27.25
+173,Proyecto Hit 740,Neiva,Obra hidráulica,2023-09-22,2024-09-02,Planeado,2350189.52,Barry Rodriguez,50.92
+174,Proyecto Paper 550,San José del Guaviare,Edificación,2024-06-30,2025-06-02,En ejecución,3129188.26,Brenda Baker,53.17
+175,Proyecto Product 250,Pereira,Obra hidráulica,2024-04-26,2026-01-06,Suspendido,2017150.7,Dr. Richard Wong,69.64
+176,Proyecto Energy 78,Valledupar,Infraestructura vial,2024-11-10,2026-06-14,Suspendido,2188203.79,Peter Olsen,69.14
+177,Proyecto Fly 809,Medellín,Edificación,2024-03-07,2026-01-25,Suspendido,1670857.65,Brenda Baker,64.53
+178,Proyecto Cause 484,Sincelejo,Infraestructura vial,2023-07-25,2025-04-13,Suspendido,3805649.96,Angela Stone,95.1
+179,Proyecto Democrat 792,Cartagena,Restauración,2023-07-02,2025-04-01,En ejecución,2784830.43,Karen Hernandez,60.34
+180,Proyecto Way 790,Valledupar,Restauración,2023-09-22,2025-01-26,Finalizado,2649715.38,Stephanie Burnett,18.58
+181,Proyecto Produce 633,Manizales,Infraestructura vial,2024-04-12,2025-01-16,Finalizado,3429548.58,Brittany Smith,43.93
+182,Proyecto Chance 141,Santa Marta,Infraestructura vial,2025-03-11,2026-03-11,Planeado,302837.78,Tiffany Brown,72.47
+183,Proyecto Generation 262,Cúcuta,Restauración,2023-12-15,2024-06-19,Finalizado,3145331.57,Allison Joyce,27.43
+184,Proyecto How 83,Cúcuta,Urbanismo,2023-11-01,2025-04-16,Planeado,3193325.23,Samantha Ramirez,20.51
+185,Proyecto Force 22,Cúcuta,Edificación,2024-10-11,2026-08-26,Planeado,3217745.82,Maurice Morris,96.3
+186,Proyecto Simple 564,Manizales,Edificación,2024-03-29,2024-06-03,Planeado,274751.0,James Patel,8.37
+187,Proyecto Ready 755,San José del Guaviare,Infraestructura vial,2024-11-22,2026-11-07,Suspendido,3971076.63,Karen Hernandez,0.67
+188,Proyecto Model 633,Bogotá,Edificación,2023-07-14,2024-11-14,Finalizado,3187925.42,Dr. Richard Wong,11.98
+189,Proyecto Standard 967,Armenia,Restauración,2024-10-02,2026-02-21,Planeado,3827260.61,Norma Roberts,16.89
+190,Proyecto Up 707,Medellín,Urbanismo,2024-11-22,2026-04-14,Finalizado,807663.27,Stephanie Burnett,33.85
+191,Proyecto Manager 169,Yopal,Infraestructura vial,2024-06-25,2026-02-15,En ejecución,1781369.39,Victor Sanders,11.32
+192,Proyecto View 472,Pereira,Obra hidráulica,2023-05-09,2024-01-29,Planeado,4273489.46,Jennifer Mann,35.64
+193,Proyecto Trip 726,Yopal,Edificación,2024-10-03,2025-10-27,Suspendido,1822079.38,Patrick Dunn,45.72
+194,Proyecto Strategy 52,Armenia,Restauración,2024-07-30,2024-11-04,En ejecución,732314.45,Maurice Morris,98.09
+195,Proyecto Whatever 60,Cartagena,Urbanismo,2024-10-26,2026-07-21,Suspendido,4770653.83,Ricardo Rodgers,61.32
+196,Proyecto Sing 99,Valledupar,Obra hidráulica,2024-10-31,2025-07-08,Suspendido,126421.23,Teresa Lopez,44.14
+197,Proyecto Late 185,Cúcuta,Edificación,2024-10-01,2026-07-31,Finalizado,2000583.34,Allison Joyce,79.74
+198,Proyecto Finish 114,Yopal,Restauración,2023-05-20,2024-12-26,Finalizado,1488310.76,James Patel,1.6
+199,Proyecto Admit 131,Armenia,Obra hidráulica,2025-04-11,2026-02-07,Planeado,3699760.51,Kimberly Fisher,21.18
+200,Proyecto Site 6,Medellín,Obra hidráulica,2025-01-16,2026-07-26,En ejecución,3350539.31,Teresa Lopez,55.62
+201,Proyecto Send 322,Santa Marta,Obra hidráulica,2024-12-13,2025-12-29,Finalizado,4711153.54,Tiffany Brown,77.2
+202,Proyecto Character 110,Manizales,Infraestructura vial,2023-06-01,2023-09-14,Planeado,3870281.82,Brenda Baker,73.67
+203,Proyecto Role 789,Medellín,Infraestructura vial,2024-02-13,2024-06-26,Suspendido,676924.24,Kimberly Fisher,18.86
+204,Proyecto Election 424,Sincelejo,Edificación,2023-11-03,2025-02-06,Finalizado,2055342.43,Norma Roberts,83.2
+205,Proyecto Direction 71,Pereira,Obra hidráulica,2023-06-10,2024-04-07,Finalizado,2008913.31,Jennifer Mann,53.14
+206,Proyecto Kid 602,Cúcuta,Edificación,2024-10-17,2026-09-16,Suspendido,1269261.59,Deborah Conner,17.5
+207,Proyecto Woman 805,Montería,Obra hidráulica,2025-01-01,2025-09-05,Planeado,92122.06,Allison Joyce,37.18
+208,Proyecto Poor 900,Montería,Infraestructura vial,2024-07-06,2025-02-25,En ejecución,1466151.13,Allison Joyce,87.14
+209,Proyecto Financial 681,Valledupar,Restauración,2024-12-01,2026-08-19,Planeado,3663110.19,Patrick Dunn,23.91
+210,Proyecto Prevent 523,Barranquilla,Edificación,2023-12-23,2024-06-08,Suspendido,4421019.41,Denise Olson,56.62
+211,Proyecto By 864,Cartagena,Urbanismo,2024-11-01,2026-05-18,Planeado,2379500.23,Maurice Morris,71.09
+212,Proyecto By 666,Bucaramanga,Urbanismo,2023-12-22,2024-11-27,Finalizado,3282246.91,Karen Hernandez,11.77
+213,Proyecto Fact 760,Bogotá,Infraestructura vial,2023-10-20,2024-04-02,Planeado,3292165.87,Shannon Gutierrez,64.99
+214,Proyecto Until 488,Bogotá,Infraestructura vial,2023-11-13,2025-03-28,En ejecución,167476.62,Renee Little,6.15
+215,Proyecto Figure 230,San José del Guaviare,Edificación,2023-08-28,2024-03-03,Finalizado,434833.1,Tiffany Brown,37.24
+216,Proyecto Five 702,Neiva,Edificación,2023-12-14,2024-06-25,Finalizado,3135518.3,Norma Roberts,53.44
+217,Proyecto Only 708,San José del Guaviare,Edificación,2023-10-10,2025-08-25,Planeado,2596884.42,Renee Little,28.9
+218,Proyecto Option 78,Pereira,Urbanismo,2024-02-11,2025-10-05,Planeado,4918895.35,Brittany Morris,28.63
+219,Proyecto Southern 458,Montería,Restauración,2023-09-04,2024-12-19,Planeado,2342338.86,Deborah Conner,30.83
+220,Proyecto West 49,Manizales,Restauración,2023-11-27,2025-02-14,En ejecución,4338856.31,Shannon Gutierrez,54.06
+221,Proyecto Beautiful 682,San José del Guaviare,Restauración,2025-01-02,2025-08-30,Suspendido,4278190.96,Michael Ford,44.81
+222,Proyecto View 714,Quibdó,Infraestructura vial,2023-12-10,2024-10-01,Suspendido,4683232.64,Samantha Ramirez,2.85
+223,Proyecto Adult 54,Bucaramanga,Infraestructura vial,2023-07-23,2025-06-15,Suspendido,3883489.11,Mark Johnson,76.65
+224,Proyecto No 272,Cúcuta,Restauración,2024-12-22,2026-10-24,En ejecución,3874052.36,Jennifer Mann,29.72
+225,Proyecto Necessary 988,Tunja,Infraestructura vial,2025-02-20,2026-06-24,En ejecución,1597754.26,Norma Roberts,85.01
+226,Proyecto Feeling 493,San José del Guaviare,Obra hidráulica,2023-07-10,2025-04-02,Finalizado,93081.87,Norma Roberts,21.66
+227,Proyecto Keep 367,Yopal,Infraestructura vial,2024-05-23,2025-03-24,Suspendido,2807331.73,Maurice Morris,45.74
+228,Proyecto Who 450,Yopal,Restauración,2025-04-13,2025-06-17,Planeado,2277143.47,Patrick Dunn,58.12
+229,Proyecto Teach 84,San José del Guaviare,Urbanismo,2024-12-15,2025-08-24,Suspendido,3482414.84,Eric Miller,95.72
+230,Proyecto Within 887,Cúcuta,Infraestructura vial,2024-02-25,2025-02-14,Planeado,1853568.13,Denise Olson,44.22
+231,Proyecto Place 406,Manizales,Edificación,2024-10-29,2025-04-21,Finalizado,4430779.89,Eric Miller,41.03
+232,Proyecto Test 615,San José del Guaviare,Infraestructura vial,2025-02-27,2025-09-10,Suspendido,2705573.96,Michael Ford,43.03
+233,Proyecto Several 28,Pereira,Obra hidráulica,2024-10-01,2026-03-09,Finalizado,1910122.76,Deborah Conner,82.18
+234,Proyecto Store 429,Montería,Urbanismo,2023-07-28,2024-11-13,Suspendido,1134101.35,James Patel,73.71
+235,Proyecto Police 673,Yopal,Obra hidráulica,2024-07-11,2024-10-28,Suspendido,291372.52,Donald Patel,78.63
+236,Proyecto Call 810,Montería,Infraestructura vial,2024-01-23,2024-07-01,Finalizado,997717.8,Barry Rodriguez,13.41
+237,Proyecto Face 287,Tunja,Obra hidráulica,2023-07-23,2025-06-13,En ejecución,4521590.13,Deborah Conner,67.01
+238,Proyecto Just 954,Armenia,Urbanismo,2024-04-02,2025-02-13,En ejecución,2285797.48,Dr. Richard Wong,4.51
+239,Proyecto Order 651,Popayán,Edificación,2023-07-15,2023-09-24,Planeado,3862796.6,Renee Little,59.2
+240,Proyecto American 507,Armenia,Edificación,2024-01-20,2025-10-26,Finalizado,129480.06,Jennifer Mann,70.16
+241,Proyecto Live 772,Pereira,Edificación,2025-02-17,2026-08-07,Finalizado,754615.54,Sherri Perkins,0.01
+242,Proyecto Almost 707,Quibdó,Urbanismo,2023-08-30,2024-03-12,Planeado,4698759.37,Tiffany Brown,31.21
+243,Proyecto Always 791,San José del Guaviare,Infraestructura vial,2024-01-09,2025-08-15,Finalizado,2346718.92,James Patel,61.24
+244,Proyecto Administration 942,Sincelejo,Infraestructura vial,2024-04-07,2024-10-12,En ejecución,2202378.08,Mark Johnson,89.04
+245,Proyecto Beat 17,Villavicencio,Edificación,2024-07-18,2025-05-28,En ejecución,1977339.31,Brenda Baker,33.95
+246,Proyecto About 172,Ibagué,Urbanismo,2024-07-21,2025-01-30,Planeado,629882.82,Maurice Morris,24.08
+247,Proyecto Identify 909,Villavicencio,Restauración,2024-03-06,2025-04-17,Finalizado,899873.28,Deborah Conner,41.11
+248,Proyecto Letter 67,Santa Marta,Infraestructura vial,2024-08-31,2025-12-06,Planeado,3553833.88,Sherri Perkins,70.82
+249,Proyecto Success 423,Yopal,Obra hidráulica,2023-10-27,2025-08-04,Planeado,2846967.05,Teresa Lopez,38.76
+250,Proyecto Fact 765,Barranquilla,Obra hidráulica,2024-01-16,2025-10-01,Suspendido,1619710.47,Renee Little,15.24
+251,Proyecto Factor 431,Valledupar,Restauración,2024-01-05,2025-05-24,Suspendido,3701137.04,Mark Johnson,99.73
+252,Proyecto Water 870,Barranquilla,Urbanismo,2023-07-14,2023-12-16,Suspendido,4942399.16,Barry Rodriguez,81.62
+253,Proyecto Tend 330,Riohacha,Restauración,2023-10-28,2024-08-01,En ejecución,701254.8,Teresa Lopez,26.37
+254,Proyecto Oil 105,Pereira,Urbanismo,2024-01-13,2024-12-24,En ejecución,4387510.96,Michael Ford,84.01
+255,Proyecto Garden 992,Montería,Restauración,2024-11-29,2026-09-29,Finalizado,2204621.17,Patrick Dunn,54.56
+256,Proyecto Authority 141,Cúcuta,Restauración,2023-12-12,2025-09-24,Planeado,1376536.93,James Patel,33.15
+257,Proyecto West 562,Villavicencio,Urbanismo,2025-02-02,2026-01-13,Planeado,4207090.78,Donald Patel,73.65
+258,Proyecto We 218,Bogotá,Obra hidráulica,2025-03-12,2027-01-01,Suspendido,3574604.46,Brenda Baker,3.52
+259,Proyecto Step 960,Yopal,Edificación,2024-08-15,2025-04-18,Finalizado,782654.34,Norma Roberts,71.04
+260,Proyecto Name 268,Santa Marta,Restauración,2024-05-13,2026-04-14,Suspendido,1786996.74,Denise Olson,73.61
+261,Proyecto For 946,Quibdó,Restauración,2024-08-03,2024-10-22,En ejecución,1226619.34,James Patel,83.36
+262,Proyecto Decision 365,Montería,Restauración,2024-12-18,2026-07-12,Planeado,2451516.32,Jennifer Mann,27.04
+263,Proyecto Threat 736,Tunja,Obra hidráulica,2024-06-23,2025-11-27,En ejecución,4377481.06,Michael Ford,91.44
+264,Proyecto President 950,Cali,Urbanismo,2024-01-29,2025-12-24,Planeado,4120404.36,Eric Miller,66.55
+265,Proyecto There 563,Riohacha,Restauración,2024-09-09,2025-05-08,Suspendido,121089.94,Deborah Conner,6.26
+266,Proyecto Detail 548,Cali,Infraestructura vial,2024-04-05,2025-11-12,Planeado,437755.98,Dr. Richard Wong,0.95
+267,Proyecto Girl 696,Medellín,Edificación,2024-03-17,2025-07-01,En ejecución,2932435.29,Eric Miller,2.8
+268,Proyecto Lose 561,Santa Marta,Restauración,2025-04-21,2026-11-19,Finalizado,1129544.83,Angela Stone,53.61
+269,Proyecto Moment 334,Florencia,Restauración,2024-05-20,2026-04-24,En ejecución,401436.88,Peter Olsen,75.84
+270,Proyecto Seem 65,Villavicencio,Edificación,2024-02-07,2025-01-19,Suspendido,4385969.56,Peter Olsen,50.43
+271,Proyecto Exactly 588,Riohacha,Obra hidráulica,2023-09-28,2025-05-03,Suspendido,405472.33,Kimberly Fisher,1.6
+272,Proyecto Something 792,Bogotá,Obra hidráulica,2024-12-23,2025-08-19,Planeado,124939.37,Denise Olson,27.75
+273,Proyecto Rock 366,Montería,Edificación,2024-08-29,2025-09-22,Planeado,2189910.51,Stephanie Burnett,49.2
+274,Proyecto Artist 32,Pereira,Obra hidráulica,2023-11-18,2024-09-30,Suspendido,4795585.42,Patrick Dunn,84.3
+275,Proyecto Role 470,Barranquilla,Obra hidráulica,2023-11-15,2024-04-01,Suspendido,821142.82,Karen Hernandez,4.21
+276,Proyecto Police 390,Montería,Restauración,2024-10-05,2025-09-10,Planeado,4185018.98,Michael Ford,30.19
+277,Proyecto Year 465,San José del Guaviare,Restauración,2025-01-16,2026-02-02,Planeado,2606321.43,Michael Ford,95.26
+278,Proyecto Medical 509,Popayán,Restauración,2024-01-21,2025-10-25,Suspendido,2601126.94,Norma Roberts,58.53
+279,Proyecto Than 262,San José del Guaviare,Restauración,2023-12-29,2024-05-30,Suspendido,902341.21,Maurice Morris,1.1
+280,Proyecto Per 42,Ibagué,Obra hidráulica,2023-07-25,2024-11-30,Finalizado,4992325.66,Ricardo Rodgers,64.48
+281,Proyecto Environment 175,Pasto,Restauración,2025-03-30,2026-11-23,Planeado,1649400.91,Jennifer Mann,84.5
+282,Proyecto Glass 969,Villavicencio,Urbanismo,2023-08-11,2025-02-09,En ejecución,590120.75,Ricardo Rodgers,4.95
+283,Proyecto Young 627,Bucaramanga,Obra hidráulica,2024-08-30,2025-02-17,Planeado,4883529.36,Sherri Perkins,15.82
+284,Proyecto Reason 570,San José del Guaviare,Urbanismo,2024-07-18,2025-06-06,Suspendido,4298497.9,Allison Joyce,85.16
+285,Proyecto Step 485,Bucaramanga,Edificación,2023-07-24,2024-04-25,Finalizado,3431657.4,Samantha Ramirez,77.47
+286,Proyecto Much 677,Sincelejo,Infraestructura vial,2025-04-23,2025-10-15,Suspendido,4135626.54,Jennifer Mann,44.96
+287,Proyecto Think 758,Popayán,Urbanismo,2023-10-13,2024-01-30,Suspendido,4908053.23,Peter Olsen,48.52
+288,Proyecto Prepare 560,Pereira,Restauración,2025-01-17,2026-12-29,En ejecución,3086578.48,Renee Little,8.81
+289,Proyecto Treatment 241,Medellín,Obra hidráulica,2024-07-02,2024-12-04,Planeado,1886677.25,Renee Little,18.15
+290,Proyecto Week 48,Pereira,Obra hidráulica,2023-12-05,2025-08-08,Finalizado,1062109.23,Barry Rodriguez,62.57
+291,Proyecto Unit 852,Neiva,Obra hidráulica,2023-07-14,2024-02-06,Planeado,2163555.5,Patrick Dunn,1.99
+292,Proyecto Feeling 415,San José del Guaviare,Infraestructura vial,2023-12-05,2024-10-04,Planeado,3125318.98,Maurice Morris,15.37
+293,Proyecto Rule 267,Tunja,Edificación,2024-08-27,2025-08-21,Finalizado,200798.0,Victor Sanders,69.21
+294,Proyecto Music 103,Neiva,Obra hidráulica,2023-12-07,2024-11-10,En ejecución,1409802.13,Brittany Smith,60.51
+295,Proyecto Business 410,Bogotá,Urbanismo,2023-11-07,2024-09-17,Finalizado,3840512.19,Shannon Gutierrez,5.3
+296,Proyecto Student 451,Villavicencio,Urbanismo,2024-10-23,2026-05-06,Suspendido,1260465.61,Donald Patel,70.15
+297,Proyecto Common 349,Ibagué,Infraestructura vial,2024-08-09,2024-11-02,Finalizado,1131433.04,Donald Patel,16.67
+298,Proyecto It 899,Pereira,Urbanismo,2024-08-10,2026-04-03,En ejecución,1435226.31,Barry Rodriguez,35.87
+299,Proyecto Decade 793,Bogotá,Urbanismo,2024-01-20,2025-07-31,Finalizado,3267568.1,Brittany Morris,19.83
+300,Proyecto Away 904,Popayán,Obra hidráulica,2023-05-10,2024-10-20,En ejecución,127488.0,Karen Hernandez,73.09
